@@ -1,0 +1,6 @@
+# Bản nháp phát triển skill và kết quả test (chứa phân tích các dự án riêng) — không đưa lên repo
+/codebase-explainer/
+/codebase-explainer-workspace/
+__pycache__/
+*.pyc
+.DS_Store

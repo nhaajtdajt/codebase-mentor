@@ -1,0 +1,16 @@
+{
+  "name": "codebase-mentor",
+  "metadata": {
+    "description": "Plugin học codebase bằng tiếng Việt cho AI agent"
+  },
+  "owner": {
+    "name": "nhaajtdajt"
+  },
+  "plugins": [
+    {
+      "name": "codebase-mentor",
+      "source": "./codebase-mentor",
+      "description": "Học codebase: phân tích dự án, giải thích khái niệm, so sánh cách làm với bên ngoài"
+    }
+  ]
+}

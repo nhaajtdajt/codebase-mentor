@@ -1,0 +1,12 @@
+{
+  "name": "codebase-mentor",
+  "description": "Học codebase bằng tiếng Việt: phân tích toàn bộ dự án thành bộ tài liệu (codebase-explainer), giải thích khái niệm ngay trong chat (concept-explainer), và so sánh cách làm của dự án với các phương pháp trên mạng (approach-comparator).",
+  "version": "0.1.0",
+  "author": {
+    "name": "nhaajtdajt"
+  },
+  "homepage": "https://github.com/nhaajtdajt/codebase-mentor",
+  "repository": "https://github.com/nhaajtdajt/codebase-mentor",
+  "license": "MIT",
+  "keywords": ["codebase", "onboarding", "learning", "vietnamese", "architecture", "explain"]
+}
